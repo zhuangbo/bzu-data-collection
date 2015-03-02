@@ -1,0 +1,1 @@
+<a class="brand" href="${createLink(uri:'/')}"><i class="fa fa-cloud-upload"></i> ${applicationName}</a>
